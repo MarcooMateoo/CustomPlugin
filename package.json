@@ -1,0 +1,25 @@
+{
+  "name": "com.marcomateo.customplugin",
+  "version": "1.0.0",
+  "description": "this is a sample plugin",
+  "cordova": {
+    "id": "com.marcomateo.customplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcooMateoo/CustomPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Marco Mateo <marco.mateo.23.13@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcooMateoo/CustomPlugin/issues"
+  },
+  "homepage": "https://github.com/MarcooMateoo/CustomPlugin#readme"
+}
